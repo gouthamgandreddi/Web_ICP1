@@ -4,6 +4,20 @@ The repo is created as part of the ICP1, which consists of two main directories,
 ## Source 
 This directory has an index.html file which is a simple HTML file created using 'Webstorm'
 
+```
+<head>
+<title>Web ICP one</title>
+</head>
+
+<body>
+
+<h1>Welcome to web Applied Programming Learning Series (APL) </h1>
+<h2> CSEE 5590 : Web /Mobile Programming </h2>
+<h3> This page was created as part of the ICP 1 </h3>
+
+</body>
+```
+
 ## Documentation 
 This directory has all the screenshots requests for the ICP. Like the Webstorm application setup in local machine, the process for creating a new repository using github, and to clone it into local machine and push the changes back to github.
 
